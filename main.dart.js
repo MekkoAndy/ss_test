@@ -24133,13 +24133,13 @@ o===$&&A.f()
 o=o.ok
 if(o!=null){o=o.a
 o===$&&A.f()
-o.shM(0,o.a[1]+s)}o=p.h9.ok
+o.shM(0,s*4)}o=p.h9.ok
 if(o!=null){o=o.a
 o===$&&A.f()
-o.shL(0,o.a[0]+r)}o=p.gkq(0)
-o.shL(0,o.a[0]+r*2)
+o.shL(0,r*4)}o=p.gkq(0)
+o.shL(0,o.a[0]+r)
 r=p.gkq(0)
-r.shM(0,r.a[1]+s*2)},
+r.shM(0,r.a[1]+s)},
 FY(a){var s,r=this,q=r.f3
 q===$&&A.f()
 s=new A.I(new Float64Array(2))
@@ -31970,7 +31970,7 @@ q.j9!==$&&A.aI()
 q.j9=k
 q.aS(q.h9)
 p=$.T2()
-q.aS(new A.lN(new A.FO(q),!0,0.1,p,0,null,new A.av([]),new A.av([])))
+q.aS(new A.lN(new A.FO(q),!0,0.2,p,0,null,new A.av([]),new A.av([])))
 k.aS(q.f3)
 k=q.aS(k)
 o=t.q
