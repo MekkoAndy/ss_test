@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c97cd64d22364bf709e22b64223e13c0",
-"assets/AssetManifest.bin.json": "8af1934239e488c21f61181dfd4ab863",
-"assets/AssetManifest.json": "d091cbc672a772ef04c021ac6210ecbf",
+const RESOURCES = {"assets/AssetManifest.bin": "946b3199e5c65f6696a786ba96fd7aa7",
+"assets/AssetManifest.bin.json": "925037bb8771475fd13ec04bec86a63d",
+"assets/AssetManifest.json": "ec96ee31dfac0af01a2636f3cba7bcf3",
 "assets/assets/animations/dragon/dragon-ess.skel": "837a12b06b7a1219702d59f02bedce9a",
 "assets/assets/animations/dragon/dragon.atlas": "29bca29a6af3c97850c79312e76944c8",
 "assets/assets/animations/dragon/dragon.png": "0c1ec86952b9e5f597be0cdb23e4bdc2",
@@ -24,9 +24,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "c97cd64d22364bf709e22b64223e13c0
 "assets/assets/animations/spineboy/spineboy.atlas": "0252ad0c8f0c40dff09f6854a95fda09",
 "assets/assets/animations/spineboy/spineboy.json": "0252ad0c8f0c40dff09f6854a95fda09",
 "assets/assets/animations/spineboy/spineboy.png": "79a6229f6a5101c0cf44e8e80dd6f641",
+"assets/assets/images/asteroid-explode.png": "f8a584ce03aa1fa4f7f0d3a999520f0e",
+"assets/assets/images/asteroid.png": "9761870e76ea3268a59e507ca363d0b9",
+"assets/assets/images/bomb.png": "f1ac1c1a0b349eef68ce51ea53df2c93",
 "assets/assets/images/bullet.png": "6d57d87204c173af8572806d93ae3ec6",
 "assets/assets/images/enemy.png": "67c6e50b589a02489ac42d18ad0468ee",
 "assets/assets/images/explosion.png": "399d7b06e79778a152fe05204ac77585",
+"assets/assets/images/flask.jpg": "54ee5a442fe063f75e34a5150bc05a33",
 "assets/assets/images/Nebula-Aqua-Pink.png": "4e3c77038adc1d9ec96eedccced14ae2",
 "assets/assets/images/Nebula-Blue.png": "2a90457f3933864dcc0730b9dd47cdb8",
 "assets/assets/images/Nebula-Red.png": "d9a38e39df4ed9fcf290ca37dd406ae7",
@@ -56,14 +60,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "c97cd64d22364bf709e22b64223e13c0
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "6e8a2153e10fbbe3c50457ad5a43357d",
+"flutter_bootstrap.js": "10135127df3b866165ddb7de1d5ab218",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "c1a45433a60f57563a725f5c3978b635",
 "/": "c1a45433a60f57563a725f5c3978b635",
-"main.dart.js": "1e6cebf16bd2e1977f9ab8d47d57a0c9",
+"main.dart.js": "5eaabddd9147256482d836734d06506e",
 "manifest.json": "58ad040eb3de17c99e02a798cdc09305",
 "version.json": "80e48bcd8d00dc03ce06eca12dfb22b7"};
 // The application shell files that are downloaded before a service worker can
